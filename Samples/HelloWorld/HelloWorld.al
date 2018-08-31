@@ -3,7 +3,7 @@
 // Licensed under the MIT License. See License.txt in the project root for license information. 
 // ------------------------------------------------------------------------------------------------
 
-codeunit 70051001 HelloWorld
+codeunit 50100 HelloWorld
 {
     TableNo = Customer;
 
